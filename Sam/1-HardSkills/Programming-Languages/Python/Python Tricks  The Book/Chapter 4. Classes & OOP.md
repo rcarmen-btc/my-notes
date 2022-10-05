@@ -218,3 +218,112 @@ Exception class or from more specific exception classes
 like ValueError or KeyError.
 • You can use inheritance to define logically grouped exception
 hierarchies.
+
+## 4.4 Python and some of the caveats involved.
+Let’s start by looking at how to copy Python’s built-in collections.
+Python’s built-in mutable collections like lists, dicts, and sets can be
+copied by calling their factory functions on an existing collection:
+```python
+new_list = list(original_list)
+new_dict = dict(original_dict)
+new_set = set(original_set)
+```
+
+### Making Shallow Copies
+In the example below, we’ll create a new nested list and then shallowly
+``` python
+copy it with the list() factory function:
+>>> xs = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+>>> ys = list(xs) # Make a shallow copy
+```
+This means ys will now be a new and independent object with the
+same contents as xs. You can verify this by inspecting both objects:
+```python
+>>> xs
+[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+>>> ys
+[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+```
+To confirm ys really is independent from the original, let’s devise a
+little experiment. You could try and add a new sublist to the original
+(xs) and then check to make sure this modification didn’t affect the
+copy (ys):
+```python
+>>> xs.append(['new sublist'])
+>>> xs
+[[1, 2, 3], [4, 5, 6], [7, 8, 9], ['new sublist']]
+>>> ys
+[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+```
+As you can see, this had the expected effect. Modifying the copied list
+at a “superficial” level was no problem at all.
+
+However, because we only created a shallow copy of the original list,
+ys still contains references to the original child objects stored in xs.
+These children were not copied. They were merely referenced again
+in the copied list.
+Therefore, when you modify one of the child objects in xs, this modi-
+fication will be reflected in ys as well—that’s because both lists share
+the same child objects. The copy is only a shallow, one level deep copy:
+```python
+>>> xs[1][0] = 'X'
+>>> xs
+[[1, 2, 3], ['X', 5, 6], [7, 8, 9], ['new sublist']]
+>>> ys
+[[1, 2, 3], ['X', 5, 6], [7, 8, 9]]
+```
+In the above example we (seemingly) only made a change to xs. But
+it turns out that both sublists at index 1 in xs and ys were modified.
+Again, this happened because we had only created a shallow copy of
+the original list.
+
+Had we created a deep copy of xs in the first step, both objects
+would’ve been fully independent. This is the practical difference
+between shallow and deep copies of objects.
+
+### Making Deep Copies
+Let’s repeat the previous list-copying example, but with one impor-
+tant difference. This time we’re going to create a deep copy using the
+deepcopy() function defined in the copy module instead:
+```python
+>>> import copy
+>>> xs = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+>>> zs = copy.deepcopy(xs)
+```
+When you inspect xs and its clone zs that we created with
+copy.deepcopy(), you’ll see that they both look identical again—just
+like in the previous example:
+```python
+>>> xs
+[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+>>> zs
+[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+```
+However, if you make a modification to one of the child objects in the
+original object (xs), you’ll see that this modification won’t affect the
+deep copy (zs).
+
+Both objects, the original and the copy, are fully independent this time.
+xs was cloned recursively, including all of its child objects:
+```python
+>>> xs[1][0] = 'X'
+>>> xs
+[[1, 2, 3], ['X', 5, 6], [7, 8, 9]]
+>>> zs
+[[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+```
+By the way, you can also create shallow copies using a function in the
+copy module. The copy.copy() function creates shallow copies of
+objects.
+
+### Copying Arbitrary Objects
+same shit...
+
+### Key Takeaways
+• Making a shallow copy of an object won’t clone child objects.
+Therefore, the copy is not fully independent of the original.
+• A deep copy of an object will recursively clone child objects. The
+clone is fully independent of the original, but creating a deep
+copy is slower.
+• You can copy arbitrary objects (including custom classes) with
+the copy module.

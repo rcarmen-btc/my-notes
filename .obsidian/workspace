@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33ea8e612e7e6f15",
+        "id": "8a7b89aee97ac8be",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
+            "file": "Sam/1-HardSkills/Programming-Languages/Python/Python Tricks  The Book/Chapter 4. Classes & OOP.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
+                "file": "Sam/1-HardSkills/Programming-Languages/Python/Python Tricks  The Book/Chapter 4. Classes & OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
+                "file": "Sam/1-HardSkills/Programming-Languages/Python/Python Tricks  The Book/Chapter 4. Classes & OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md"
+                "file": "Sam/1-HardSkills/Programming-Languages/Python/Python Tricks  The Book/Chapter 4. Classes & OOP.md"
               }
             }
           },
@@ -158,8 +156,10 @@
     "direction": "horizontal",
     "width": 214.83323669433594
   },
-  "active": "33ea8e612e7e6f15",
+  "active": "8a7b89aee97ac8be",
   "lastOpenFiles": [
+    "Sam/1-HardSkills/Programming-Languages/Python/Python Tricks  The Book/Chapter 4. Classes & OOP.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
     "Sam/1-HardSkills/Languages/Python/Using Asyncio in Python/CHAPTER 3. Asyncio Walk-Through.md",
     "Sam/1-HardSkills/Languages/Python/Using Asyncio in Python/0-Preface.md",
     "Sam/1-HardSkills/Languages/Python/Python Tricks  The Book/0. Python Tricks  The Book.md",
@@ -167,8 +167,6 @@
     "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/0-Оглавление.md",
     "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 5 Сетевые характеристики и качество обслуживания.md",
     "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 4 Стандартизация и классификация сетей.md",
-    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 3 Коммутация каналов и пакетов.md",
-    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
-    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 1 Эволюция компьютерных сетей.md"
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 3 Коммутация каналов и пакетов.md"
   ]
 }
