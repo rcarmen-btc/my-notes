@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "ef73bd3f8ece53d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ea8e612e7e6f15",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdf127d90dffe165",
+    "type": "split",
+    "children": [
+      {
+        "id": "34f12377da77feec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79764338bb124b5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "03a8199bb7f4a139",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "uptime",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecb46d768146fe51",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5043411254883
+  },
+  "right": {
+    "id": "a316c55a77246b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "395b3358d7bfebc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed505d0a2593f20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "622f8722fe6d429c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e4e7b72d0a423b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae3c5e46d8275a4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a500680a99cf8415",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6d889976e6d7834c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md"
+              }
+            }
+          },
+          {
+            "id": "7da976b59f841220",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.83323669433594
+  },
+  "active": "33ea8e612e7e6f15",
+  "lastOpenFiles": [
+    "Sam/1-HardSkills/Languages/Python/Using Asyncio in Python/CHAPTER 3. Asyncio Walk-Through.md",
+    "Sam/1-HardSkills/Languages/Python/Using Asyncio in Python/0-Preface.md",
+    "Sam/1-HardSkills/Languages/Python/Python Tricks  The Book/0. Python Tricks  The Book.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 4. Сети TCP&IP/ГЛАВА 13 Адресация в стеке протоколов TCP&IP.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/0-Оглавление.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 5 Сетевые характеристики и качество обслуживания.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 4 Стандартизация и классификация сетей.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 3 Коммутация каналов и пакетов.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 2 Общие принципы построения сетей.md",
+    "Sam/1-HardSkills/Network/Компьютерные сети/Часть 1. Основы сетей передачи данных/ГЛАВА 1 Эволюция компьютерных сетей.md"
+  ]
+}

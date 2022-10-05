@@ -1,0 +1,10 @@
+{
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "vimMode": true,
+  "livePreview": true,
+  "attachmentFolderPath": "Images",
+  "promptDelete": false,
+  "showLineNumber": true
+}

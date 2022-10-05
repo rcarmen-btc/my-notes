@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ef73bd3f8ece53d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f57f80255601b793",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sam/0. SoftSkills/🇬🇧 Английский/1.2. Present Continuous.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdf127d90dffe165",
+    "type": "split",
+    "children": [
+      {
+        "id": "34f12377da77feec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79764338bb124b5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "03a8199bb7f4a139",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecb46d768146fe51",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.00885200500488
+  },
+  "right": {
+    "id": "a316c55a77246b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "c051d64d9eaa0f48",
+        "type": "tabs",
+        "dimension": 34.403669724770644,
+        "children": [
+          {
+            "id": "64a2f7f8a8d2de0b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sam/0. SoftSkills/🇬🇧 Английский/1.2. Present Continuous.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0.2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7980127591279713,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "5ddfa400fb3bc982",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "520c685b47162c7e",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "395b3358d7bfebc3",
+        "type": "tabs",
+        "dimension": 65.59633027522935,
+        "children": [
+          {
+            "id": "8ed505d0a2593f20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "622f8722fe6d429c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sam/0. SoftSkills/🇬🇧 Английский/1.2. Present Continuous.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e4e7b72d0a423b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sam/0. SoftSkills/🇬🇧 Английский/1.2. Present Continuous.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae3c5e46d8275a4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d889976e6d7834c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sam/0. SoftSkills/🇬🇧 Английский/1.2. Present Continuous.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.19175720214844,
+    "collapsed": true
+  },
+  "active": "f57f80255601b793",
+  "lastOpenFiles": [
+    "Sam/0. SoftSkills/🇬🇧 Английский/1.1. Present Simple.md",
+    "Sam/0. SoftSkills/🇬🇧 Английский/1.2. Present Continuous.md",
+    "Без названия 2.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "Sam/Идеи.md",
+    "Sam/Идеи.sync-conflict-20220621-092146-MRHQCSZ.md",
+    "Day Planners/Day Planner-20220720.md",
+    "Слова.md",
+    "Untitled.md"
+  ]
+}

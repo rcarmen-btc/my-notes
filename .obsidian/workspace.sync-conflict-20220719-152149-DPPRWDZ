@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "e5231c587ca9e15b",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f3c83101f20730",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Финансы/Консигнация.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7f8739b922540ab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fefc636f524ddbc6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c72b33792247305d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9e2519ce576e2235",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bf88769d49e7849e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "678bef10b54ddf4b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3ff0939697998902",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Финансы/Консигнация.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d07f666d673a0cd9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Финансы/Консигнация.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2dd090fa52774f7a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Финансы/Консигнация.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "44f3c83101f20730",
+  "lastOpenFiles": [
+    "Финансы/Вексель.md",
+    "Финансы/Индоссамент.md",
+    "Финансы/Опротестованный вексель.md",
+    "Финансы/Комиссионная торговля.md",
+    "Финансы/Консигнация.md",
+    "Слова.md",
+    "2022-07-19.md",
+    "Untitled.md"
+  ]
+}
