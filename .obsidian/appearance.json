@@ -1,6 +1,7 @@
 {
   "baseFontSize": 14,
-  "cssTheme": "Sanctum",
-  "theme": "moonstone",
-  "translucency": false
+  "cssTheme": "Discordian",
+  "theme": "obsidian",
+  "translucency": false,
+  "accentColor": ""
 }
