@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sam/1-HardSkills/DevOps/Ansible/7-Отладка.md",
+                "file": "Sam/1-HardSkills/DevOps/UDockerAnsible/Ansible/7-Отладка.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "7f56ace12199ba0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sam/1-HardSkills/DevOps/Ansible/8-Блоки и обработка ошибок.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sam/1-HardSkills/DevOps/Ansible/8-Блоки и обработка ошибок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sam/1-HardSkills/DevOps/Ansible/8-Блоки и обработка ошибок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sam/1-HardSkills/DevOps/Ansible/8-Блоки и обработка ошибок.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,15 +175,15 @@
   },
   "active": "7f56ace12199ba0d",
   "lastOpenFiles": [
-    "Sam/1-HardSkills/DevOps/Ansible/7-Отладка.md",
+    "Sam/1-HardSkills/DevOps/UDockerAnsible/Untitled.md",
+    "Sam/1-HardSkills/DevOps/UDockerAnsible/Ansible/8-Блоки и обработка ошибок.md",
+    "Untitled 4.md",
+    "Sam/1-HardSkills/DevOps/UDockerAnsible/Ansible/7-Отладка.md",
     "Sam/1-HardSkills/DevOps/DevOps Yandex.md",
     "Sam/1-HardSkills/DevOps/grep.md",
-    "Sam/1-HardSkills/DevOps/Ansible/6-Переменные.md",
+    "Sam/1-HardSkills/DevOps/UDockerAnsible/Ansible/6-Переменные.md",
     "Sam/1-HardSkills/DevOps/Bash/Основы BASH. Часть 1.md",
     "Sam/1-HardSkills/DevOps/Untitled.md",
-    "Sam/1-HardSkills/DevOps/UNIX И LINUX РУКОВОДСТВО СИСТЕМНОГО АДМИНИСТРАТОРА/ЧАСТЬ 2. Работа в сетях/Глава 13. Сети TCP & IP.md",
-    "Sam/1-HardSkills/DevOps/КИТ/3-Linux-инструменты для сисадмина.md",
-    "Sam/1-HardSkills/DevOps/Ansible/1-Ansible.md",
-    "Sam/1-HardSkills/DevOps/Ansible/2-Инвентарь.md"
+    "Sam/1-HardSkills/DevOps/UNIX И LINUX РУКОВОДСТВО СИСТЕМНОГО АДМИНИСТРАТОРА/ЧАСТЬ 2. Работа в сетях/Глава 13. Сети TCP & IP.md"
   ]
 }
